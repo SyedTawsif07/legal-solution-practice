@@ -1,0 +1,8 @@
+/* Background banner image */
+.bg-image{
+    background-image: url('./images/banner.png');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
